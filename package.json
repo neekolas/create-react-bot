@@ -1,0 +1,12 @@
+{
+  "name": "@botsbotsbots/create-react-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "create": "nwb new react-component"
+  },
+  "devDependencies": {
+    "nwb": "^0.21.5"
+  }
+}
